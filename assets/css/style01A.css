@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #F7EF6A;
+}
+
+.titulo {
+	background: #465C8B;
+	margin-top: 50px;
+	text-align: center;
+	color: #FFF;
+	font-weight: bold;
+	border-radius: 20px;
+	margin-bottom: 50px;
+}
+
+.row {
+	background: #FFF;
+	margin: 10px;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.col-sm {
+	background: #C6E2FF;
+	color: #FFF;
+	margin: 10px;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.col-sm p {
+	color: black;
+	font-weight: bold;
+}
+
+.sub {
+	background: #FFC125;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.botao {
+	margin-top: 50px;
+}
+
+#botao {
+	margin-bottom: 10px;
+}
